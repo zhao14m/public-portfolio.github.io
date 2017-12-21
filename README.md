@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages--get that portfolio up edition
 
 You can use the [editor on GitHub](https://github.com/zhao14m/public-portfolio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
